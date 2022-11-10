@@ -7,7 +7,7 @@
 
 const primera = (data) => {
     console.log("Hola")
-} 
+}
 
 
 
